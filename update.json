@@ -1,20 +1,5 @@
 {
-  "version": 3,
-  "artifactType": {
-    "type": "APK",
-    "kind": "Directory"
-  },
-  "applicationId": "com.haxdevloaper.tubechat",
-  "variantName": "release",
-  "elements": [
-    {
-      "type": "SINGLE",
-      "filters": [],
-      "attributes": [],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "outputFile": "app-release.apk"
-    }
-  ],
-  "elementType": "File"
+  "latest_version": 2,
+  "apk_url": "https://github.com/haxeditzz/TUBECHAT-APP-/raw/main/Tubechat%20v1.0.apk",
+  "changelog": "- Bug fixes\n- Improved UI\n- Added auto-update"
 }
