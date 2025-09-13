@@ -1,5 +1,5 @@
 {
-  "latest_version": 3,
-  "apk_url": "https://github.com/haxeditzz/TUBECHAT-APP-/raw/main/Tubechat%20v1.0.1.apk",
-  "changelog": "- Bug fixes\n- Improved UI\n- Added new feature X"
+  "latest_version": 2,
+  "apk_url": "https://github.com/haxeditzz/TUBECHAT-APP-/raw/main/tubechat_v1.0.1.apk",
+  "changelog": "- Bug fixes\n- Improved UI\n- Added auto-update"
 }
