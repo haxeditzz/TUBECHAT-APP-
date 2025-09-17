@@ -1,6 +1,6 @@
 {
   "latest_version": 3,
-  "apk_url": "https://github.com/haxeditzz/TUBECHAT-APP-/raw/refs/heads/main/TubeChat_v1.0.01.apk",
+  "apk_url": "https://github.com/haxeditzz/TUBECHAT-APP-/raw/refs/heads/main/tubechat_v1.0.01.apk",
   "sha256": "a5b379e244f5611554d15b95ffdef150a065c473d14518d5258a8a8b24fd78d8",
-  "changelog": "- Bug fixes\n- New features\n- Live chat link working"
+  "changelog": "- Bug fixes\n- New features\n- Livechat link working"
 }
