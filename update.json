@@ -2,6 +2,6 @@
   "latest_version": 1,
   "mandatory_update": true,
   "disabled_classes": ["LiveChatActivity"],
-  "apk_url": "https://github.com/haxeditzz/TUBECHAT-APP-/raw/refs/heads/main/Tubechat_v1.00.01.apk",
+  "apk_url": "https://github.com/haxeditzz/TUBECHAT-APP-/raw/refs/heads/main/Tubechat_v1.00.02.apk",
   "changelog": "- Bug fixes\n- New features\n-"
 }
