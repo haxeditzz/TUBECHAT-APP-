@@ -1,6 +1,1 @@
-{
-  "message": "Updated via Android app",
-  "content": "<BASE64_ENCODED_JSON>",
-  "sha": "<CURRENT_FILE_SHA>",
-  "branch": "main"
-}
+{"message":"hi"}
