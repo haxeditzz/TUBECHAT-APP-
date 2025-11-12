@@ -1,3 +1,6 @@
 {
-  "message": "Hello, this is the latest spam message from Android app!"
+  "message": "Updated via Android app",
+  "content": "<base64 string>",
+  "sha": "<file sha>",
+  "branch": "main"
 }
