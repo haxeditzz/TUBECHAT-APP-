@@ -1,6 +1,6 @@
 {
   "message": "Updated via Android app",
-  "content": "<base64 string>",
-  "sha": "<file sha>",
+  "content": "<BASE64_ENCODED_JSON>",
+  "sha": "<CURRENT_FILE_SHA>",
   "branch": "main"
 }
